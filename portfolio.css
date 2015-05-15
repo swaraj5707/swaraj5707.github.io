@@ -1,0 +1,149 @@
+	a:link{color:red;text-decoration:none;}
+	a:visited{color:green;}
+	a:hover{color:#FFC125;
+			text-decoration:underline;}
+	a:active{color:grey;}
+body{	
+		word-spacing:5px;
+		margin:0px;
+		padding:0px;
+		background-size:cover;
+		}
+#wrapper{
+		height:643px;
+		width:1366px;
+		background-color:#FEF5CA;
+		
+		}
+#name{
+		position:absolute;
+		top:0px;
+		height:200px;
+		width:1366px;
+		left:0px;
+		text-align:center;
+		background:-webkit-linear-gradient(top,#EEA9B8,#FCF6CF);
+		}
+#name p{
+		font-weight:bold;
+		font-size:60px;
+		font-family:Lucida Handwriting;
+		margin-top:15px;
+		color:#FF3030;
+		}
+#subsection{
+		position:absolute;
+		top:150px;
+		height:485px;
+		width:300px;
+		left:0px;
+		text-align:center;
+		font-size:20px;
+		line-height:110px;
+		font-family:Lucida Handwriting;
+		}
+#photo{
+		position:absolute;
+		top:105px;
+		height:340px;
+		width:700px;
+		left:330px;
+		}
+img{
+		position:relative;
+		height:340px;
+		width:700px;
+		}
+#description{
+		position:absolute;
+		top:450px;
+		height:165px;
+		width:1036px;
+		left:330px;
+		font-family:Lucida Handwriting;
+		}
+#about_me_head{
+		font-size:23px;
+		margin:1px;
+		vertical-align:middle;
+		border-bottom-color:#CD1076;
+		border-bottom-style:solid;
+		border-bottom-width:1px;
+		padding-left:60px;
+		color:#CD1076;
+		}
+#about_me_body{
+		font-size:18px;
+		margin-top:0px;
+		text-indent:60px;
+		}
+#footer{
+		background:-webkit-linear-gradient(bottom,#EEA9B8,#FCF6CF);
+		position:absolute;
+		top:443px;
+		height:200px;
+		width:1366px;
+		left:0px;
+		text-align:center;
+		}
+#footer p{
+		font-size:12px;
+		margin-top:185px;
+		}
+#contact{
+		position:absolute;
+		top:90px;
+		height:380px;
+		width:900px;
+		left:330px;
+		}
+.contact_head{
+		font-size:23px;
+		line-height:20px;
+		color:#CD1076;
+		font-family:Lucida Handwriting;
+		}
+.contact_body{
+		font-size:18px;
+		font-family:Lucida Handwriting;
+		}
+.contact_body a:hover{color:pink;}
+#hobbies{
+		position:absolute;
+		top:100px;
+		height:380px;
+		width:900px;
+		left:400px;
+		}
+#hobbies_head{
+		font-size:23px;
+		line-height:50px;
+		color:#CD1076;
+		font-family:Lucida Handwriting;
+		}
+.hobbies_body{
+		font-size:18px;
+		font-family:Lucida Handwriting;
+		}
+#education{
+		position:absolute;
+		top:70px;
+		height:480px;
+		width:900px;
+		left:330px;
+		text-align:center;
+		}
+#education_table{
+		height:480px;
+		width:900px;
+		}
+#education_head{
+		font-size:23px;
+		line-height:50px;
+		color:#CD1076;
+		font-family:Lucida Handwriting;
+		}
+.education_body{
+		font-size:18px;
+		font-family:Lucida Handwriting;
+		}
